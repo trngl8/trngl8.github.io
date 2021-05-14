@@ -1,2 +1,4 @@
-Triangle Corporation
+Triangle Software
 =======
+
+https://triangle.software/
